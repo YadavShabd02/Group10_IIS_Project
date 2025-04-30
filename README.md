@@ -39,13 +39,10 @@ Follow the steps below to run the chatbot:
 # Step 1: Clone the repository
 git clone https://github.com/YadavShabd02/Group10_IIS_Project/tree/main
 
-# Step 2: Navigate to the project directory
-cd Group_10
-
-# Step 3: Install dependencies
+# Step 2: Install dependencies
 pip install -r requirements.txt
 
-# Step 4: Run the chatbot
+# Step 3: Run the chatbot
 python Chatbot.py
 ```
 
