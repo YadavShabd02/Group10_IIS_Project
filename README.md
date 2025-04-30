@@ -37,7 +37,7 @@ Follow the steps below to run the chatbot:
 
 ```bash
 # Step 1: Clone the repository
-git clone https://github.com/Nikkumar-12345/IIS-CHATBOT-PROJECT
+git clone https://github.com/YadavShabd02/Group10_IIS_Project/tree/main
 
 # Step 2: Navigate to the project directory
 cd Group_10
