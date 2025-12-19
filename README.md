@@ -1,4 +1,4 @@
-# Group10_IIS_Project : Hospital Reception Chatbot
+# MediBot – Hospital Reception Assistant
 
 ## 1. Description / Objective
 
